@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KredoBank.API", "KredoBank\KredoBank.API.csproj", "{0CADF167-872F-4807-AA3C-E858EBFCFD71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KredoBank.Application", "Application\KredoBank.Application.csproj", "{55B8DE4C-950F-4054-B218-A4307ACF4D2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KredoBank.Infrastructure", "KredoBank.Infrastructure\KredoBank.Infrastructure.csproj", "{05314014-0E1A-4D94-8ABE-24A4B10BAC87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KredoBank.Domain", "KredoBank.Domain\KredoBank.Domain.csproj", "{36767748-5135-4B5A-A877-F3FF8C0EE786}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CADF167-872F-4807-AA3C-E858EBFCFD71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CADF167-872F-4807-AA3C-E858EBFCFD71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CADF167-872F-4807-AA3C-E858EBFCFD71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CADF167-872F-4807-AA3C-E858EBFCFD71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55B8DE4C-950F-4054-B218-A4307ACF4D2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55B8DE4C-950F-4054-B218-A4307ACF4D2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55B8DE4C-950F-4054-B218-A4307ACF4D2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55B8DE4C-950F-4054-B218-A4307ACF4D2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05314014-0E1A-4D94-8ABE-24A4B10BAC87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05314014-0E1A-4D94-8ABE-24A4B10BAC87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05314014-0E1A-4D94-8ABE-24A4B10BAC87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05314014-0E1A-4D94-8ABE-24A4B10BAC87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36767748-5135-4B5A-A877-F3FF8C0EE786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36767748-5135-4B5A-A877-F3FF8C0EE786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36767748-5135-4B5A-A877-F3FF8C0EE786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36767748-5135-4B5A-A877-F3FF8C0EE786}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {660EDB3B-54E9-4727-B18F-6A8E16CD8FC9}
+	EndGlobalSection
+EndGlobal

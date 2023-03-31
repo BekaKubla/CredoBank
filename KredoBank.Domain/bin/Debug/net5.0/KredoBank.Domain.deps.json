@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "KredoBank.Domain/1.0.0": {
+        "runtime": {
+          "KredoBank.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KredoBank.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
